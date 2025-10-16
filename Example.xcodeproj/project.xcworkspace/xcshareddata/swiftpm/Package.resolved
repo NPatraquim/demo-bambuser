@@ -1,0 +1,15 @@
+{
+  "originHash" : "85170d81abd7578d4380545312772c80a47c55e8f97bdc7099722e02abe3a076",
+  "pins" : [
+    {
+      "identity" : "bambuser-commerce-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bambuser/bambuser-commerce-sdk-ios/",
+      "state" : {
+        "revision" : "747f951e89f4adcf1f3fb0b6c3c766fb6a9eebec",
+        "version" : "2.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
